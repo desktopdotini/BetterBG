@@ -1,8 +1,0 @@
-{
-    "name": "BetterBG",
-    "description": "A better alternative to usrbg, has it's own BG Database, and it's not dead :)",
-    "version": "6.9",
-    "author": "CloneyInnit#6510",
-    "theme": "BetterBG.theme.css",
-    "license": "MIT"
-}
